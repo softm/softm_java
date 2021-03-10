@@ -1,0 +1,16 @@
+# JAP intelli sence 자동 완성 기능 안될시.
+    1. Project Structure (Ctrl+Alt+Shift+S)
+    2. Project Settings - Module
+        + add JPA 
+                + JPA Configuration Descriptor 
+                    persistence.xml
+        + add Spring
+        + add Web
+            Web Resource Directories
+                + add
+                    src/main/resource/static    /
+
+                + add
+                    src/main/retources/views    /view
+
+
